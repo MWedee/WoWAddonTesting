@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: HelloWorld
+## Notes: Prints "Hello, World" to the chat.
+## Author: MWedee
+## Version 0.0.1
+
+
+HelloWorld.lua
